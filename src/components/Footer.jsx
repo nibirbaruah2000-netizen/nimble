@@ -20,14 +20,14 @@ export default function Footer() {
             <span>
               Developed By{' '}
               <span className="font-semibold text-ice-light drop-shadow-[0_0_8px_rgba(125,211,252,0.5)]">
-                Mohsin.Exe
+                26.yt (me)
               </span>{' '}
               and Development team{' '}
               <SafeLink
                 href={SOCIAL_LINKS.discord}
                 className="font-semibold text-ice underline decoration-ice/40 underline-offset-4 transition-colors hover:text-ice-light hover:decoration-ice"
               >
-                CodeX Development
+                Now ignore this line bro.....
               </SafeLink>
             </span>
           </div>
