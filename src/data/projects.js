@@ -3,11 +3,11 @@
 
 export const PROJECTS = [
   {
-    id: 'sonic-wave',
-    title: 'Sonic Wave',
-    category: 'Discord Music Bot',
+    id: 'magmabot',
+    title: 'MagmaBot',
+    category: 'Discord All Rounder Bor',
     description:
-      'A high-performance Discord music bot with queue management, live filters and a low-latency audio pipeline built for large servers.',
+      'A high-performance Discord music bot with queue management, live filters and a low-latency audio pipeline built for large servers. Which has many other features like moderation,fun,etc.',
     tech: ['Discord.js', 'Node.js', 'MongoDB'],
     github: '#',
     demo: '#',
