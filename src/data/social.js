@@ -16,19 +16,19 @@ export const PROFILE = {
     'Creative Developer',
   ],
   github: {
-    username: 'MohsinAli088',
-    url: 'https://github.com/MohsinAli088/',
+    username: 'nibirbaruah2000-netizen',
+    url: 'https://github.com/nibirbaruah2000-netizen/',
   },
   discord: {
-    username: 'Mohsin.Exe',
-    server: 'CODEx Development',
-    url: 'https://discord.gg/codexdevs',
+    username: '26.yt',
+    server: 'N/A',
+    url: 'https://discord.gg/---',
   },
 };
 
 export const SOCIAL_LINKS = {
-  github: 'https://github.com/MohsinAli088/',
-  discord: 'https://discord.gg/codexdevs',
+  github: 'https://github.com/nibirbaruah2000-netizen/',
+  discord: 'https://discord.gg/----',
   linkedin: '#',
   instagram: '#',
   youtube: '#',
