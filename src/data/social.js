@@ -5,10 +5,10 @@
 // ─────────────────────────────────────────────────────────────
 
 export const PROFILE = {
-  name: 'MOHSIN',
-  displayName: 'Mohsin',
-  username: 'Mohsin',
-  brandName: 'MOHSIN',
+  name: 'NIMBLEFLEA',
+  displayName: '𝑵𝒊𝒎𝒃𝒍𝒆𝑭𝒍𝒆𝒂',
+  username: '26.yt',
+  brandName: 'Nimble',
   roles: [
     'Discord Bot Developer',
     'Web Developer',
