@@ -33,7 +33,7 @@ export const SOCIAL_LINKS = {
   instagram: '#',
   youtube: '#',
   twitter: '#',
-  email: '#',
+  email: 'nibir.baruah2000@gmail.com',
 };
 
 // Links equal to "#" are not live yet. Use isPlaceholder() to guard
