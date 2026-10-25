@@ -104,7 +104,7 @@ export default function Hero({ reducedMotion, showCanvas }) {
             variants={textWipe}
             className="font-display text-4xl font-semibold leading-[1.08] text-ice-light sm:text-5xl md:text-6xl"
           >
-            Hey, I&apos;m Mohsin.
+            Hey, I&apos;m NimbleFlea.
           </motion.h1>
 
           <motion.h2
